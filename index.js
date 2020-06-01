@@ -207,6 +207,8 @@ const artists = [
 
 (1) Name of the first artist (0th index) in the array
 (2) Bio of the third artist (2nd index) in the array */
+console.log(artists[0].name)
+console.log(artists[2].name)
 
 
 
@@ -224,6 +226,7 @@ const artists = [
 */
 function getArtistByIndex(id, name) {
     /* code here */
+
   }
   
   /**
